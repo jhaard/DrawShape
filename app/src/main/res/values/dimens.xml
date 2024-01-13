@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Höjd -->
+    <dimen name="zero_height">0dp</dimen>
+
+    <!-- Marginaler -->
+    <dimen name="btn_horizontal_margin">40dp</dimen>
+
+    <!-- Elevation -->
+    <dimen name="cv_elevation">5dp</dimen>
+
+</resources>
